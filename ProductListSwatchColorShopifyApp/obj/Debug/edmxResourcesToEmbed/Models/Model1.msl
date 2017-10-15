@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SwatchProductShopifyModelStoreContainer" CdmEntityContainer="SwatchProductShopifyEntities">
+    <EntitySetMapping Name="ShopToken">
+      <EntityTypeMapping TypeName="SwatchProductShopifyModel.ShopToken">
+        <MappingFragment StoreEntitySet="ShopToken">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Shop" ColumnName="Shop" />
+          <ScalarProperty Name="Token" ColumnName="Token" />
+          <ScalarProperty Name="InstallDate" ColumnName="InstallDate" />
+          <ScalarProperty Name="UninstallDate" ColumnName="UninstallDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

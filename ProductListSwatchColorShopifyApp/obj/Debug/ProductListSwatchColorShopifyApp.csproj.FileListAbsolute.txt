@@ -1,1 +1,2 @@
 D:\PROJECTS\ProductListSwatchColorShopifyApp\ProductListSwatchColorShopifyApp\obj\Debug\ProductListSwatchColorShopifyApp.csprojResolveAssemblyReference.cache
+D:\PROJECTS\Shopify\ProductListSwatchColorShopifyApp\obj\Debug\ProductListSwatchColorShopifyApp.csprojResolveAssemblyReference.cache
